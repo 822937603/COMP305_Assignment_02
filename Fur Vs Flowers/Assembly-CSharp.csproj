@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\CoinController.cs" />
      <Compile Include="Assets\_Scripts\EnemyController.cs" />
+     <Compile Include="Assets\_Scripts\FurryCollider.cs" />
      <Compile Include="Assets\_Scripts\FurryController.cs" />
      <Compile Include="Assets\_Scripts\GroundController.cs" />
      <Compile Include="Assets\_Scripts\GroundPController.cs" />
