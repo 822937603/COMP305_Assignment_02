@@ -52,6 +52,7 @@
      <Compile Include="Assets\_Scripts\FurryController.cs" />
      <Compile Include="Assets\_Scripts\GroundController.cs" />
      <Compile Include="Assets\_Scripts\GroundPController.cs" />
+     <Compile Include="Assets\_Scripts\LevelReset.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
