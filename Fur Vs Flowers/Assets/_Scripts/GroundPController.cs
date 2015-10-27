@@ -2,8 +2,7 @@
 using System.Collections;
 
 public class GroundPController : MonoBehaviour {
-
-	//make a box at the end of area, take off mesh for invisibility, trigger the reset, put it on the bottom so falls onto it
+	
 
 	public int maxPlatforms;
 	public GameObject platform;
